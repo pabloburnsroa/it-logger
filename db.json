@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "message": "Hello",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-07-15T13:58:47.986Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed Wifi",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-07-15T15:48:17.721Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Smith",
+      "id": 2
+    }
+  ]
+}
